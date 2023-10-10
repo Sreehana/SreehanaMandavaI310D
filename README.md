@@ -3,6 +3,8 @@
 Goal: 
 The goal of this project is to analyze the trend between the number of streams of each song sung by Taylor Swift over the course of time. This is done through web-scraping along with utilizing data visualization techniques in python. 
 
+License: MIT 
+
 Limitations/ potential issued of the data: 
 It is important to note that I did not directly get the data about the number of streams of the songs from apps such as Spotify. The source of my data is purely the website called ‘kworb.net’. They did specify on their website where they got the data from. So, there is always a change that the data that I collected isn’t completely accurate. Similarly, the specific sources for the global and US charting data in the website was not specified so I could not verify this information for its accuracy. 
 
